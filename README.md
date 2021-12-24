@@ -27,6 +27,12 @@ To learn more, visit [ohmyz.sh](https://ohmyz.sh), follow [@ohmyzsh](https://twi
 - `curl` or `wget` should be installed
 - `git` should be installed (recommended v2.4.11 or higher)
 
+### Installation offline
+
+`git clone https://github.com/WangsirCode/oh-my-zsh-offline.git ~/.oh-my-zsh`
+`cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc`
+`chsh -s `which zsh`
+
 ### Basic Installation
 
 Oh My Zsh is installed by running one of the following commands in your terminal. You can install this via the command-line with either `curl`, `wget` or another similar tool.
