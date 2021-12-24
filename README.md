@@ -29,9 +29,11 @@ To learn more, visit [ohmyz.sh](https://ohmyz.sh), follow [@ohmyzsh](https://twi
 
 ### Installation offline
 
-`git clone https://github.com/WangsirCode/oh-my-zsh-offline.git ~/.oh-my-zsh`
-`cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc`
-`chsh -s `which zsh`
+```
+git clone https://github.com/WangsirCode/oh-my-zsh-offline.git ~/.oh-my-zsh
+cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
+chsh -s `which zsh`
+```
 
 ### Basic Installation
 
